@@ -1,2 +1,4 @@
 # Blackjack
- java final project
+## java final team project
+### 2 players only
+### using javafx
